@@ -29,4 +29,4 @@ jobs:
           branch: main # 部署后提交到那个分支
           folder: public # 存放build后产物的目录
           token: ${{ secrets.ACCESS_TOKEN }} # token
-          repository-name: kongxiangyiren/kongxiangyiren.github.io #要部署的仓库 请根据实际情况修改 为 用户名/仓库名
+          repository-name: ssgg-code/ssgg-code.github.io #要部署的仓库 请根据实际情况修改 为 用户名/仓库名
